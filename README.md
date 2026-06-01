@@ -38,7 +38,7 @@ pip install requests
 
 4. Copy its **value** (a long string of characters)
 
-> **⚠️ WARNING:** Never share your `.ROBLOSECURITY` cookie with anyone! Anyone with this cookie can fully access your account.
+> don't share your .ROBLOSECURITY Cookie!
 
 ## Usage
 
