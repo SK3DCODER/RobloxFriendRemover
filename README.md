@@ -1,4 +1,4 @@
-# DCodeX Friend Remover
+# Roblox Friend Remover
 
 A Python script to remove all friends from your Roblox account automatically.
 
