@@ -21,16 +21,8 @@ This script allows you to mass-remove all friends from your Roblox account. It a
 - Python 3.6 or higher
 - `requests` library
 
-## Installation
 
-1. Clone the repository or download the script:
-
-```bash
-git clone https://github.com/yourusername/dcodex-friend-remover.git
-cd dcodex-friend-remover
-```
-
-2. Install the required dependency:
+1. Install the required dependency:
 
 ```bash
 pip install requests
@@ -53,7 +45,7 @@ pip install requests
 Run the script:
 
 ```bash
-python friend_remover.py
+python 1.py
 ```
 
 Follow the prompts:
